@@ -1,0 +1,15 @@
+h3 {
+    background-color: darkmagenta;
+}
+
+.highlight {
+    background-color: cadetblue;
+}
+
+.highlight:hover {
+    background-color: aqua;
+}
+
+.highlight2 {
+    background-color: rgb(218, 198, 16);
+}
